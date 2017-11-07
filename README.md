@@ -17,8 +17,11 @@ FILES
 4. Open Config File (config.php)
   
   define('URL','https://example.com/');	
+  
   define('APP_ID','app-id-here');	
+  
   define('SECRET_KEY','app-secret-here');	
+  
   define('GRAPH_VERSIONS','v2.2');
       
   Change Your Facebook Apps App-id , secret-key and your site url
